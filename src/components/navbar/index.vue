@@ -150,7 +150,7 @@
             :size="32"
             :style="{ marginRight: '8px', cursor: 'pointer' }"
           >
-            <img alt="avatar" :src="avatar" />
+            <img alt="avatar" src="https://img2.imgtp.com/2024/03/20/DZbedeb0.jpg" />
           </a-avatar>
           <template #content>
             <a-doption>
